@@ -1,0 +1,19 @@
+.contain{
+    width: 55%;
+    height: 80vh;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+
+input{
+    background-color:#000000; 
+    border:2px solid #ffffff; 
+    border-radius:10px; 
+    color:#ffffff;
+    padding-inline: 5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+}
+input::placeholder{
+    color: #ffffff;
+}
